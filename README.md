@@ -1,6 +1,4 @@
-# How-to-connect-my-mobile-to-my-laptop
-
-# How to connect your mobile phone to your laptop for debugging a Flutter application
+# How to connect your mobile to your laptop for debugging .NET MAUI Blazor application
 
 https://developer.android.com/tools/adb#wireless-adb-android-11
 

@@ -82,11 +82,11 @@ We first press the **Settings** button
 
 We select the menu option **Settings/About the Phone**
 
-
+![image](https://github.com/user-attachments/assets/0f9f1a03-e1a3-4cc8-944f-747b0c0a6481)
 
 Then we select the option **Software Information**
 
-![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/0ab2bcdd-c1a5-439e-8080-8d604642a9f0)
+![image](https://github.com/user-attachments/assets/2cdb8ac3-38e2-4fcf-a0b4-015d76120bb3)
 
 For enabling the Develper options we have to tap on the **Build Number** sevent times:
 

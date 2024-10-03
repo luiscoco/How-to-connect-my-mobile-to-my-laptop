@@ -86,11 +86,11 @@ We select the menu option **Settings/About the Phone**
 
 Then we select the option **Software Information**
 
-![image](https://github.com/user-attachments/assets/2cdb8ac3-38e2-4fcf-a0b4-015d76120bb3)
+![image](https://github.com/user-attachments/assets/6c95669c-49a2-45d5-ab97-3de98eeede1f)
 
 For enabling the Develper options we have to tap on the **Build Number** sevent times:
 
-![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/bf5acf4f-ffe9-42f9-9086-d589c9c2f7c3)
+![image](https://github.com/user-attachments/assets/2cdb8ac3-38e2-4fcf-a0b4-015d76120bb3)
 
 We enter the Mobile device password if required
 
@@ -98,11 +98,11 @@ We enter the Mobile device password if required
 
 We receive a message **Developer mode has been turned on**
 
-![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/9a5edffb-5324-45bc-ab91-6eb9cd582ba7)
+![image](https://github.com/user-attachments/assets/4967a3a0-1d0a-4ed4-9164-649bd9ef3e3b)
 
 Now we can verify the **Developer options** are available in our mobile phone:
 
-![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/744a152d-0ad1-46c6-8ba7-9009101fce9b)
+![image](https://github.com/user-attachments/assets/33713972-6bff-445b-bd3c-06dd9a9d7c15)
 
 We can **Enable USB Debugging**:
 
@@ -110,7 +110,7 @@ Go to **Settings > System > Developer** options
 
 Enable **USB debugging**
 
-![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/1ed246b5-9799-40fc-a576-86354df535db)
+![image](https://github.com/user-attachments/assets/459aeaae-b232-4337-aca6-e3e5a41de13b)
 
 We also have to connect the Mobile to the Laptop with an **USB wire**
 
@@ -118,7 +118,6 @@ We also have to connect the Mobile to the Laptop with an **USB wire**
 
 We can also **revoke the USB debugging authorization** for detecting the mobile phone
 
-![image](https://github.com/luiscoco/Flutter_Connect_Mobile_lesson2/assets/32194879/bc9cae45-a9f1-4ce6-a0e5-d3775c45edeb)
 
 And then accept the message in your mobile phone to authorize to connect the mobile to the laptop
 

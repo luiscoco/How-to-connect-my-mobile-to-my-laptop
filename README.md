@@ -151,7 +151,12 @@ Before pressing the run button check the Configuration Manager options are set p
 
 ![image](https://github.com/user-attachments/assets/ce7fb95b-f235-41cc-b09d-ace2269f8f84)
 
-After running the application you will see it in the Visual Studio IDE and also in your Mobile
+After running the application you will see it in the Visual Studio IDE 
 
 ![image](https://github.com/user-attachments/assets/a94d18a0-e2f4-4869-a2f0-63e1e9b2788d)
+
+Also see your application is running in your Mobile
+
+![image](https://github.com/user-attachments/assets/54963291-ac4e-48b0-b5ca-8855c7b33836)
+
 
